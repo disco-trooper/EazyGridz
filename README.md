@@ -5,7 +5,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/disco-trooper/EazyGridz/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/disco-trooper/EazyGridz" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
 </p>
 
@@ -16,10 +16,6 @@
 👤 **disco-trooper**
 
 - Github: [@disco-trooper](https://github.com/disco-trooper)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
