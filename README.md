@@ -14,8 +14,6 @@
 
 > A simple flexbox based framework
 
-### 🏠 [Homepage](https://github.com/disco-trooper/EazyGridz#readme)
-
 ## Author
 
 👤 **disco-trooper**
