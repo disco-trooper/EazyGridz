@@ -1,0 +1,22 @@
+{
+  "name": "eazygridz",
+  "version": "1.0.0",
+  "description": "A simple grid based framework",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/eazygridz.scss:dist/eazygridz.css --no-source-map",
+    "sass-watch": "sass src/eazygridz.scss:dist/eazygridz.min.css --style=compressed --no-source-map --watch",
+    "sass-build": "sass src/eazygridz.scss:dist/eazygridz.min.css --style=compressed --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disco-trooper/EazyGridz.git"
+  },
+  "author": "disco-trooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/disco-trooper/EazyGridz/issues"
+  },
+  "homepage": "https://github.com/disco-trooper/EazyGridz#readme",
+  "devDependencies": {}
+}
