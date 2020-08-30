@@ -399,6 +399,15 @@ $breakpoint-xl: 1200px;
 .flex-column-reverse {
   flex-direction: column-reverse;
 }
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
 
 @media screen and (min-width: $breakpoint-sm) {
   .flex-sm-row {
@@ -412,6 +421,15 @@ $breakpoint-xl: 1200px;
   }
   .flex-sm-column-reverse {
     flex-direction: column-reverse;
+  }
+  .flex-sm-wrap {
+    flex-wrap: wrap;
+  }
+  .flex-sm-nowrap {
+    flex-wrap: nowrap;
+  }
+  .flex-sm-wrap-reverse {
+    flex-wrap: wrap-reverse;
   }
 }
 
@@ -428,6 +446,15 @@ $breakpoint-xl: 1200px;
   .flex-md-column-reverse {
     flex-direction: column-reverse;
   }
+  .flex-md-wrap {
+    flex-wrap: wrap;
+  }
+  .flex-md-nowrap {
+    flex-wrap: nowrap;
+  }
+  .flex-md-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
 }
 
 @media screen and (min-width: $breakpoint-lg) {
@@ -443,6 +470,15 @@ $breakpoint-xl: 1200px;
   .flex-lg-column-reverse {
     flex-direction: column-reverse;
   }
+  .flex-lg-wrap {
+    flex-wrap: wrap;
+  }
+  .flex-lg-nowrap {
+    flex-wrap: nowrap;
+  }
+  .flex-lg-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
 }
 
 @media screen and (min-width: $breakpoint-xl) {
@@ -457,6 +493,15 @@ $breakpoint-xl: 1200px;
   }
   .flex-xl-column-reverse {
     flex-direction: column-reverse;
+  }
+  .flex-xl-wrap {
+    flex-wrap: wrap;
+  }
+  .flex-xl-nowrap {
+    flex-wrap: nowrap;
+  }
+  .flex-xl-wrap-reverse {
+    flex-wrap: wrap-reverse;
   }
 }
 
